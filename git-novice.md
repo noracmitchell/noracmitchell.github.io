@@ -86,7 +86,7 @@
     -   ` git commit -m "Edited the guacamole instructions`
 -   `git log`
 -   Draw a diagram of the three "areas" of git
-![The Git Staging Area](../fig/git-staging-area.svg)
+![The Git Staging Area](../git-staging-area.svg)
     -   [filesystem] -->add [staging area] -->commit [repository]
     -   Think of commit as taking a snapshot, and add as deciding what's in it
     -   Staging area
