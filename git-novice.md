@@ -18,9 +18,9 @@
 ## 1. Introduction: Automated Version Control ##
 
 -   Unlimited undo, helps us know what each change does: Who made it & why?
--   Lets people collaborate on the same code at the same time (Have you used google docs?)
+-   Lets people collaborate on the same code at the same time
 -   All of these things are useful for repeatability, history, fixing problems etc.  
--   Introduce the concept of repositories and commits
+-   Concept of repositories and commits
 
 ## 2. Setting up Git ##
 
@@ -85,8 +85,7 @@
     -   `git add instructions.txt`
     -   ` git commit -m "Edited the guacamole instructions`
 -   `git log`
--   Draw a diagram of the three "areas" of git
-![The Git Staging Area](./git-staging-area.svg)
+-   Git has three staging "areas"
     -   [filesystem] -->add [staging area] -->commit [repository]
     -   Think of commit as taking a snapshot, and add as deciding what's in it
     -   Staging area
